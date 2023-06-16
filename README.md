@@ -1,2 +1,2 @@
 # CoderClark
-Code, collaborate, communicate, alliterate
+Code, collaborate, communicate, iterate, alliterate
